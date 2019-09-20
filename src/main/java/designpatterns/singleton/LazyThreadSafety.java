@@ -1,4 +1,4 @@
-package designPatterns.singleton;
+package designpatterns.singleton;
 
 /**
  * 懒汉式 2 线程安全

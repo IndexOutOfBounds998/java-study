@@ -1,4 +1,4 @@
-package designPatterns.singleton;
+package designpatterns.singleton;
 
 /**
  * 饿汉式 见名知意  就是很饿  立刻初始化的意思

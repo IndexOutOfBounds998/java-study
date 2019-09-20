@@ -1,4 +1,4 @@
-package designPatterns.strategy;
+package designpatterns.strategy;
 
 /**
  * 叫行为

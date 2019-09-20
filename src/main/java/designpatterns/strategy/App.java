@@ -1,4 +1,4 @@
-package designPatterns.strategy;
+package designpatterns.strategy;
 
 public class App {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package designPatterns.proxy.staticproxy;
+package designpatterns.proxy.staticproxy;
 
 /**
  * @author by chu_yang_yang

@@ -1,4 +1,4 @@
-package designPatterns.strategy;
+package designpatterns.strategy;
 
 /**
  * 飞行行为

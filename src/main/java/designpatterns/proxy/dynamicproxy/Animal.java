@@ -1,4 +1,4 @@
-package designPatterns.proxy.dynamicproxy;
+package designpatterns.proxy.dynamicproxy;
 
 /**
  * @author by chu_yang_yang

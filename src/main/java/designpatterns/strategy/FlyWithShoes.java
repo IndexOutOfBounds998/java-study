@@ -1,4 +1,4 @@
-package designPatterns.strategy;
+package designpatterns.strategy;
 
 public class FlyWithShoes implements FlyBehavior {
     public void fly() {
