@@ -12,6 +12,13 @@ public class DonaldDuck extends Duck  {
         quackBehavior=new MimiQuack();
     }
 
+    public void setFlyBehavior(FlyBehavior flyBehavior) {
+        this.flyBehavior = flyBehavior;
+    }
+
+    public void setQuackBehavior(QuackBehavior quackBehavior) {
+        this.quackBehavior = quackBehavior;
+    }
 
     void display() {
         System.out.println("大噶好 唔係 唐老鴨");

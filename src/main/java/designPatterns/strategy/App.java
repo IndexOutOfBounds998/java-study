@@ -5,10 +5,11 @@ public class App {
         /**
          * 這是一個奇怪的唐老鴨
          */
-        DonaldDuck donaldDuck=new DonaldDuck();
+        DonaldDuck donaldDuck = new DonaldDuck();
         donaldDuck.display();
         donaldDuck.fly();
         donaldDuck.quack();
-
+        donaldDuck.setFlyBehavior(new FlyWithGuns());
+        donaldDuck.fly();
     }
 }
